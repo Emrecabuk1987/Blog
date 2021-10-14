@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace BusinessLayer.Concrete
-{
+{//d
     public class CategoryManager : ICategoryService
     {
         EfCategoryRepository efCategoryRepository;
