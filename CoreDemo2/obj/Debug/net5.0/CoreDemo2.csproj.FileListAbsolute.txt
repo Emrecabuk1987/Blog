@@ -237,3 +237,4 @@ C:\Users\Emre\Desktop\c#\CoreDemo3\CoreDemo2\obj\Debug\net5.0\Razor\Views\Shared
 C:\Users\Emre\Desktop\c#\CoreDemo3\CoreDemo2\obj\Debug\net5.0\Razor\Views\Blog\BlogReadAll.cshtml.g.cs
 C:\Users\Emre\Desktop\c#\CoreDemo3\CoreDemo2\obj\Debug\net5.0\Razor\Views\Comment\PartialAddComment.cshtml.g.cs
 C:\Users\Emre\Desktop\c#\CoreDemo3\CoreDemo2\obj\Debug\net5.0\Razor\Views\Comment\CommentListByBlog.cshtml.g.cs
+C:\Users\Emre\Desktop\c#\CoreDemo3\CoreDemo2\obj\Debug\net5.0\Razor\Views\Shared\Components\CommentList\Default.cshtml.g.cs
