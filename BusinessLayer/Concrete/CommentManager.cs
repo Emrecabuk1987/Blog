@@ -15,7 +15,7 @@ namespace BusinessLayer.Concrete
 
         public CommentManager(ICommentDal commentDal)
         {
-            this._commentdal = _commentdal;
+            _commentdal = commentDal;
         }
 
         public void CommentAdd(Comment comment)
