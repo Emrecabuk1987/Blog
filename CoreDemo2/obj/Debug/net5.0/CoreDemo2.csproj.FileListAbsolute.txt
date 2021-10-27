@@ -240,3 +240,4 @@ C:\Users\Emre\Desktop\c#\CoreDemo3\CoreDemo2\obj\Debug\net5.0\Razor\Views\Commen
 C:\Users\Emre\Desktop\c#\CoreDemo3\CoreDemo2\obj\Debug\net5.0\Razor\Views\Shared\Components\CommentList\Default.cshtml.g.cs
 C:\Users\Emre\Desktop\c#\CoreDemo3\CoreDemo2\obj\Debug\net5.0\Razor\Views\Shared\Components\CommentListByBlog\Default.cshtml.g.cs
 C:\Users\Emre\Desktop\c#\CoreDemo3\CoreDemo2\obj\Debug\net5.0\Razor\Views\Shared\Components\CategoryList\Default.cshtml.g.cs
+C:\Users\Emre\Desktop\c#\CoreDemo3\CoreDemo2\obj\Debug\net5.0\Razor\Views\Register\Index.cshtml.g.cs
