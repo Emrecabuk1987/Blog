@@ -241,3 +241,7 @@ C:\Users\Emre\Desktop\c#\CoreDemo3\CoreDemo2\obj\Debug\net5.0\Razor\Views\Shared
 C:\Users\Emre\Desktop\c#\CoreDemo3\CoreDemo2\obj\Debug\net5.0\Razor\Views\Shared\Components\CommentListByBlog\Default.cshtml.g.cs
 C:\Users\Emre\Desktop\c#\CoreDemo3\CoreDemo2\obj\Debug\net5.0\Razor\Views\Shared\Components\CategoryList\Default.cshtml.g.cs
 C:\Users\Emre\Desktop\c#\CoreDemo3\CoreDemo2\obj\Debug\net5.0\Razor\Views\Register\Index.cshtml.g.cs
+C:\Users\Emre\Desktop\c#\CoreDemo3\CoreDemo2\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\Emre\Desktop\c#\CoreDemo3\CoreDemo2\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+C:\Users\Emre\Desktop\c#\CoreDemo3\CoreDemo2\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Emre\Desktop\c#\CoreDemo3\CoreDemo2\obj\Debug\net5.0\CoreDemo2.MvcApplicationPartsAssemblyInfo.cs
