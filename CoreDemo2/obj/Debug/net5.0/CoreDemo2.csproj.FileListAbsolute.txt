@@ -247,3 +247,4 @@ C:\Users\Emre\Desktop\c#\CoreDemo3\CoreDemo2\bin\Debug\net5.0\FluentValidation.D
 C:\Users\Emre\Desktop\c#\CoreDemo3\CoreDemo2\obj\Debug\net5.0\CoreDemo2.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Emre\Desktop\c#\CoreDemo3\CoreDemo2\obj\Debug\net5.0\Razor\Views\Login\Index.cshtml.g.cs
 C:\Users\Emre\Desktop\c#\CoreDemo3\CoreDemo2\obj\Debug\net5.0\Razor\Views\Shared\Components\WriterLastBlog\Default.cshtml.g.cs
+C:\Users\Emre\Desktop\c#\CoreDemo3\CoreDemo2\obj\Debug\net5.0\Razor\Views\NewsLetter\SubscribeMail.cshtml.g.cs
