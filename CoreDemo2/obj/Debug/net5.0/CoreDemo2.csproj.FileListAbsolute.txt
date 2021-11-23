@@ -249,3 +249,5 @@ C:\Users\Emre\Desktop\c#\CoreDemo3\CoreDemo2\obj\Debug\net5.0\Razor\Views\Login\
 C:\Users\Emre\Desktop\c#\CoreDemo3\CoreDemo2\obj\Debug\net5.0\Razor\Views\Shared\Components\WriterLastBlog\Default.cshtml.g.cs
 C:\Users\Emre\Desktop\c#\CoreDemo3\CoreDemo2\obj\Debug\net5.0\Razor\Views\NewsLetter\SubscribeMail.cshtml.g.cs
 C:\Users\Emre\Desktop\c#\CoreDemo3\CoreDemo2\obj\Debug\net5.0\Razor\Views\ErrorPage\Error1.cshtml.g.cs
+C:\Users\Emre\Desktop\c#\CoreDemo3\CoreDemo2\obj\Debug\net5.0\Razor\Views\About\Index.cshtml.g.cs
+C:\Users\Emre\Desktop\c#\CoreDemo3\CoreDemo2\obj\Debug\net5.0\Razor\Views\About\SocialMediaAbout.cshtml.g.cs
